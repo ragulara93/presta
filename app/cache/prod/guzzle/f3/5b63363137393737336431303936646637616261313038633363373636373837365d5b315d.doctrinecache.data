@@ -1,0 +1,13 @@
+1485430506
+s:2499:"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 26 Jan 2017 09:34:55 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 2188
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"services":[{"id":"24636","name":"currenciesdirect","displayName":"Currencies Direct","categoryName":"Offres Partenaires","description":"Currencies Direct is a world-class service provider for online sellers converting foreign currency from marketplaces like Amazon and paying overseas suppliers","author":"PrestaShop Partners","url":"http:\/\/addons.prestashop.com\/fr\/offres-partenaires\/24636-currencies-direct.html","serviceUrl":"http:\/\/www.currenciesdirect.com\/uk\/online-sellers-us?adloc=A013484&AffiliateType=WebSite","img":"https:\/\/medias1.prestastore.com\/img\/pico\/24636.jpg","fullDescription":"Currencies Direct is a world-class service provider for online sellers converting foreign currency from marketplaces like Amazon and paying overseas suppliers. Currencies Direct make it as easy as possible for you to manage your multi-currencies sales proceeds from multiple online marketplaces so that you can grow faster &amp; receive different currencies without being held back by unnecessary barriers.","additionalDescription":"<ul>\r\n\t<li>&nbsp;Register for a FREE account with Currencies Direct and immediately take advantage of the following benefits:\r\n\t<ul>\r\n\t\t<li>Save money on marketplace foreign exchange<\/li>\r\n\t\t<li>Collect sales revenue without the hassle of setting up local bank accounts<\/li>\r\n\t\t<li>Save time and money when paying suppliers<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n\t<li>Available across all the largest marketplaces<\/li>\r\n<\/ul>\r\n<br \/>\r\n<span style=\"font-size:14px\"><strong>Click&nbsp;<a href=\"http:\/\/www.currenciesdirect.com\/uk\/online-sellers-us?adloc=A013484&amp;AffiliateType=WebSite\"><u><span style=\"color:rgb(143, 170, 220)\">here<\/span><\/u><\/a>&nbsp;to sign up for your FREE account to start saving money<\/strong><\/span>","version":"","price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Partenaire officiel","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/ps-official-partner.png"}],"cover":{"small":"https:\/\/medias1.prestastore.com\/794929-pprod\/currencies-direct.jpg","big":"https:\/\/medias3.prestastore.com\/794929-pbig\/currencies-direct.jpg"}}]}";
